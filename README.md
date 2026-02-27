@@ -49,7 +49,7 @@ The Business Case:
  * It avoids the high overhead and licensing costs of serving alcohol, which the data proves is entirely unnecessary to achieve a top-tier customer rating in this region.
    
 Dashboard Preview
-
+https://github.com/lolojaja038-ai/Mexican-Restaurant-Market-Analysis/blob/main/Mexican%20Restaurant%20Ratings%20Dashboard.png 
 
 Tools Used
  * Power BI: Data visualization, interactive dashboard creation, and DAX metric calculations.
